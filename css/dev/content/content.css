@@ -1,0 +1,10 @@
+.content {
+  display: block;
+  width: 100%;
+  margin: 16px 0;
+  box-sizing: border-box;
+}
+.content_inner {
+  position: relative;
+  width: 1130px;
+}
